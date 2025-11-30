@@ -1,0 +1,33 @@
+header{
+    background-color: lightblue;
+    padding: 25px;
+    text-align: center;
+}
+body{
+    background-color: darkblue;
+}
+h1{
+    color:darkblue;
+    text-align: center;
+}
+button{
+    color:darkblue;
+    margin: 5px;
+    background-color:snow;
+    border-radius: 5px;
+}
+h2{
+    color: snow;
+}
+#p1{
+    color: snow;
+}
+#p2{
+    color: snow;
+}
+li{
+    color: snow;
+}
+#p3{
+    color: snow;
+}
